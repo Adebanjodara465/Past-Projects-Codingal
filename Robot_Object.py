@@ -1,7 +1,7 @@
 #make robots
 class Robots:
     def __init__(self,name,type,year,color): #this is a method that allows us to assign attributes
-        self.name = name  #thses are attributes
+        self.name = name  #these are attributes
         self.type = type
         self.year = year
         self.color = color
