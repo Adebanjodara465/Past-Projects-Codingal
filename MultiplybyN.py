@@ -13,4 +13,4 @@ b = int(input("Enter the b value: "))
 
 
 print("The multiplication of the two values is: ",Once(a, b))
-print("The multiplication of a by b times is: ",Once(a, b))
+print("The multiplication of a by b times is: ",loop(a, b))
